@@ -1,5 +1,6 @@
 # A compartmental model to investigate intracranial pulsatility
-Bachelor's thesis at the end of my Degree on Biomedical Engineering at UC3M. MATLAB codes are provided, together with the final thesis report and presentation.
+
+This work was part of my Bachelor's thesis for my Degree on Biomedical Engineering at UC3M. The MATLAB codes used are provided, together with the final thesis report and a presentation. Feel free to contact me at josu.ps13@gmail.com for further information.
 
 **Abstract**
 
