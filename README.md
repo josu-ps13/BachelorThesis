@@ -1,8 +1,6 @@
 # A compartmental model to investigate intracranial pulsatility
 
-This work was part of my Bachelor's thesis for my Degree on Biomedical Engineering at UC3M. The MATLAB codes used are provided, together with the final thesis report and a presentation. Feel free to contact me at josu.ps13@gmail.com for further information.
-
-**Abstract**
+*This work was part of my Bachelor's thesis for my Degree on Biomedical Engineering at UC3M. The MATLAB codes used are provided, together with the final thesis report and a presentation. Feel free to contact me at josu.ps13@gmail.com for further information.*
 
 This project was motivated by the potential of mathematical models in the investigation and early detection of disorders related to the cerebrospinal fluid (CSF) system, such as syringomyelia and hydrocephalus. Abnormalities in the behavior of CSF pulsatility have been linked to various pathologies and computational models have emerged as a popular tool for simulating these intracranial fluid dynamics. By improving our fundamental knowledge on this subject, researchers aspire to detect these conditions at an early stage, enabling healthcare workers to address any potential obstruction, avoiding risky interventions and improving the quality of life of the patients.
 
